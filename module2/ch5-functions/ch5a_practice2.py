@@ -2,7 +2,7 @@
 # Program Complete
 """
 This program will convert a distance in kilometers to miles. It will get a value in kilometers from 
-the user, and call a function to do the conversion. Finally, it will display the value.
+the user, and call a function to do the conversion and display the value
 """
 # Global constant for km/mile conversion factor
 KM_TO_MI_FACTOR = 0.6214
